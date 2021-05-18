@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science, AI, machine learning
 - 🌱 I’m currently learning Python and all related data science packages 
 - 💞️ I’m looking to collaborate on machine learing topics
-- 📫 How to reach me ...
+- 📫 How to reach me: feel freeto email me at enricotomassoli@gmail.com
 
 <!---
 EnrTom/EnrTom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
